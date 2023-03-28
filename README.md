@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PaulWassermann
 - 👀 I’m interested in artificial intelligence and software engineering
-- 🌱 I’m currently learning artificial intelligence computer science in engineering school Ecole Centrale de Marseille
 - 💞️ I’m looking to collaborate on open source python projects in an effort to improve my programming skills
 - 📫 How to reach me: on LinkedIn: www.linkedin.com/in/paul-wassermann or on my mail: paul.wassermann@centrale-marseille.fr
                       
